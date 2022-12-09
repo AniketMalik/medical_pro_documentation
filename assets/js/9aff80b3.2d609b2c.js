@@ -1,0 +1,1 @@
+(self.webpackChunkdoctor_consultation_documentation=self.webpackChunkdoctor_consultation_documentation||[]).push([[629],{2024:function(o){"use strict";o.exports=JSON.parse('{"allTagsPath":"/medical_pro_documentation/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/medical_pro_documentation/blog/tags/hola"}')}}]);
